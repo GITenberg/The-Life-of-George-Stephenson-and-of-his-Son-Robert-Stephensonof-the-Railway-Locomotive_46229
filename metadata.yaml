@@ -1,0 +1,31 @@
+_repo: The-Life-of-George-Stephenson-and-of-his-Son-Robert-Stephensonof-the-Railway-Locomotive_46229
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46229-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smiles, Samuel
+    birthdate: 1812
+    deathdate: 1904
+    gutenberg_agent_id: '224'
+    url: http://www.gutenberg.org/2009/agents/224
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
+description: ''
+gutenberg_issued: '2014-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TF'
+- !lcsh 'Stephenson, Robert, 1803-1859'
+- !lcsh 'Locomotives -- History'
+- !lcsh 'Stephenson, George, 1781-1848'
+- !lcsh 'Railroads -- Great Britain -- History'
+title: "The Life of George Stephenson and of his Son Robert Stephenson\r\nComprising\
+  \ Also a History of the Invention and Introduction of the Railway Locomotive"
+url: http://www.gutenberg.org/ebooks/46229
