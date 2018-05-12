@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/224
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46229#The-Life-of-George-Stephenson-and-of-his-Son-Robert-Stephensonof-the-Railway-Locomotive
 gutenberg_issued: '2014-07-09'
 gutenberg_type: Text
 identifiers:
